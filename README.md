@@ -1,1 +1,1 @@
-# Spam-detection-using-Natural-Language-Processor
+# Natural-Language-Processor-Spam-detection
